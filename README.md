@@ -1,18 +1,23 @@
-# Aula prática - Markdown
+# Engenharia de Requisitos
 
-Este repositório servirá de base para você praticar a estrutura de texto markdown. 
+Identifique as partes interessadas e suas necessidades.
+Defina o escopo do projeto.
+Elaboração de requisitos funcionais e não funcionais.
+Priorize os requisitos.
+Valide os requisitos com as partes interessadas.
 
-Primeiramente faça um fork, edite inserindo a pesquisa, e no final, faça o commit para salvar o conteúdo.
+Requisitos funcionais.
+Requisitos não funcionais.
+Requisitos de domínio.
+Requisitos subconscientes.
+Requisitos conscientes.
+Requisitos inconscientes.
+Levantamento dos Requisitos.
+Análise de Requisitos.
 
-Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+Um requisito funcional define-se pela necessidade, uma função de um aplicativo móvel ou parte dele. 
+Ele é o conjunto de funcionalidades que vão compor o seu aplicativo.
+Exemplo: cadastro de usuários, login, geolocalização, busca por listas, emissão de relatórios etc.
 
-#### Sobre a atividade, você deverá considerar o seguinte assunto:
-
-- A pesquisa descritiva será sobre Engenharia de Requisitos
-- Destaque o conceito geral, tipos de requisitos e considerer exemplos
-- Deverá conter no mínimo 2 imagens
-- Deverá inserir uma tabela comparativa, exemplicando o use case
-- Deverá inserir links para acessar sites de conteúdo sobre o assunto.
-
-
-## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+![WhatsApp Image 2024-03-25 at 17 15 09](https://github.com/laris23/aulaMarkdown/assets/164563391/f98df326-4c93-45ba-8592-a4cfbbace8e6)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocplayer.com.br%2F220540883-Engenharia-de-requisitos.html&psig=AOvVaw2Vrs-USa7FGjOYOw3JTOT4&ust=1711484929910000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiWrtKgkIUDFQAAAAAdAAAAABAJ
